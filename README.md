@@ -69,8 +69,8 @@ Fork or star this repository for support.
 
 Not accepting any issues and pull requests. 
 
-## 🚀 NASA Logo
+## 🚀 Logo
 
-🚀 NASA Logo is the official trademark of NASA.
+NASA Logo is the official trademark of NASA.
 
 ## 🚫 No Scammers
