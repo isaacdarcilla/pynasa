@@ -8,7 +8,20 @@
 * `cd pynasa` - change to project directory
 * `python test.py` - run test
 
-## API
+## ✨ Usage 
+
+```python
+# Print the location
+print(nasa.location())
+
+# Print the crew names
+print(nasa.crews())
+
+# Print the total crews
+print(nasa.count())
+```
+
+## ✨ API
 
 * `URL` - http://api.open-notify.org/iss-now.json
 * `GET` - method 
