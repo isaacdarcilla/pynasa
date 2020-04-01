@@ -1,14 +1,6 @@
-<p align="center"><img src="https://www.anexia-it.com/blog/wp-content/uploads/2015/01/codeigniter_logo.png" width="500"></p>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/486px-Python_logo_and_wordmark.svg.png" width="500"></p>
 
-<p align="center">🎉 Booking reservation system built with Codeigniter 🎉</p>
-
-## ✨ Prerequisites
-
-* XAMPP
-* Git
-* PHP 7
-
-Before you proceed to installation, make sure you have installed `XAMPP` first and import the database in `phpmyadmin`.
+<p align="center">🚀 Python package that can track the location of ISS </p>
 
 ## ✨ Installation
 
@@ -26,14 +18,6 @@ $db['default'] = array(
     'database' => 'booking',
     ...
 ```
-
-* Edit server credentials and database name
-
-
-## 💻 Demonstration
-
-* Username: `isaac@email.com`
-* Password: `user`
 
 ## ✨ Screenshot
 
