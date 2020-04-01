@@ -1,31 +1,28 @@
-<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/486px-Python_logo_and_wordmark.svg.png" width="500"></p>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="500"></p>
 
 <p align="center">🚀 Python package that can track the location of ISS </p>
 
 ## ✨ Installation
 
-* `git clone https://github.com/isaacdarcilla/booking-system.git` - clone the repository
-* `cd booking-system` - change to project directory
-* `cd application/config/database` - go to database 
-* `nano database.php` - edit database config
+* `git clone https://github.com/isaacdarcilla/pynasa.git` - clone the repository
+* `cd pynasa` - change to project directory
+* `python test.py` - run test
 
-```php
-$db['default'] = array(
-    'dsn'   => '',
-    'hostname' => 'localhost',
-    'username' => 'root',
-    'password' => '',
-    'database' => 'booking',
-    ...
+## API
+
+* `URL` - http://api.open-notify.org/iss-now.json
+* ``
+
+```json
+{
+  "message": "success",
+  "iss_position": {
+    "longitude": "91.6876",
+    "latitude": "-23.5057"
+  },
+  "timestamp": 1585715434
+}
 ```
-
-## ✨ Screenshot
-
-More screenshot can be found in ```screenshots``` folder.
-
-Home  | Search
-------------- | -------------
-![App](https://github.com/isaacdarcilla/booking-system/blob/master/screenshots/DeepinScreenshot_20200331180906.png) | ![App](https://github.com/isaacdarcilla/booking-system/blob/master/screenshots/DeepinScreenshot_20200331180935.png)
 
 ## ✨ License
 
