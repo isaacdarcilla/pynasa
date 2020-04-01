@@ -2,6 +2,9 @@ import main
 
 nasa = main.Nasa()
 
+# Print documentation
+print(nasa.__doc__)
+
 # Print the location
 print(nasa.location())
 
