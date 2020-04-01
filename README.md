@@ -34,14 +34,7 @@
       "craft": "ISS",
       "name": "Andrew Morgan"
     },
-    {
-      "craft": "ISS",
-      "name": "Oleg Skripochka"
-    },
-    {
-      "craft": "ISS",
-      "name": "Jessica Meir"
-    }
+    ...
   ],
   "message": "success",
   "number": 3
