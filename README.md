@@ -11,7 +11,7 @@
 ## API
 
 * `URL` - http://api.open-notify.org/iss-now.json
-* ``
+* `GET` - method 
 
 ```json
 {
@@ -24,6 +24,29 @@
 }
 ```
 
+* `URL` - http://api.open-notify.org/astros.json
+* `GET` - method 
+
+```json
+{
+  "people": [
+    {
+      "craft": "ISS",
+      "name": "Andrew Morgan"
+    },
+    {
+      "craft": "ISS",
+      "name": "Oleg Skripochka"
+    },
+    {
+      "craft": "ISS",
+      "name": "Jessica Meir"
+    }
+  ],
+  "message": "success",
+  "number": 3
+}
+```
 ## ✨ License
 
 [Apache 2.0 License](https://github.com/isaacdarcilla/DesktopQuery/blob/master/LICENSE)
