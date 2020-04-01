@@ -1,6 +1,6 @@
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="200"></p>
 
-<p align="center">🚀 Python package that can track the location of ISS. 🚀 NASA Logo is the official trademark of NASA.</p>
+<p align="center">🚀 Python package that can track the location of ISS. </p>
 
 ## ✨ Installation
 
@@ -68,5 +68,9 @@ Fork or star this repository for support.
 ## 🐞 Issues and Pull Requests
 
 Not accepting any issues and pull requests. 
+
+## 🚀 NASA Logo
+
+🚀 NASA Logo is the official trademark of NASA.
 
 ## 🚫 No Scammers
