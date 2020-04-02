@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='pynasa',
-    version='1.8',
+    version='1.8.16',
     url='https://github.com/isaacdarcilla/pynasa.git',
     license='Apache 2.0',
     author='Isaac D. Arcilla',
