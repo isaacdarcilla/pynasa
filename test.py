@@ -1,15 +1,15 @@
 import main
 
-nasa = main.Nasa()
+iss = main.Iss()
 
 # Print documentation
-print(nasa.__doc__)
+print(iss.__doc__)
 
 # Print the location
-print(nasa.location())
+print(iss.location())
 
 # Print the crew names
-print(nasa.crews())
+print(iss.crews())
 
 # Print the total crews
-print(nasa.count())
+print(iss.count())
