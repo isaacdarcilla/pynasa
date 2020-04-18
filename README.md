@@ -10,15 +10,20 @@
 
 ## ✨ Usage 
 
+Import the class first.
+
 ```python
+# Class assignment
+iss = main.Iss()
+
 # Print the location
-print(nasa.location())
+print(iss.location())
 
 # Print the crew names
-print(nasa.crews())
+print(iss.crews())
 
 # Print the total crews
-print(nasa.count())
+print(iss.count())
 ```
 
 ## ✨ API
