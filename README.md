@@ -10,10 +10,8 @@
 
 ## ✨ Usage 
 
-Import the class first.
-
 ```python
-# Class assignment
+# Import class
 iss = main.Iss()
 
 # Print the location
@@ -24,6 +22,17 @@ print(iss.crews())
 
 # Print the total crews
 print(iss.count())
+```
+
+## ✨ Output
+
+```bash
+(-33.0688, -114.4972)
+Chris Cassidy
+Anatoly Ivanishin
+Ivan Vagner
+
+3
 ```
 
 ## ✨ API
