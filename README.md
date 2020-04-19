@@ -24,17 +24,6 @@ print(iss.crews())
 print(iss.count())
 ```
 
-## ✨ Output
-
-```bash
-(-33.0688, -114.4972)
-Chris Cassidy
-Anatoly Ivanishin
-Ivan Vagner
-
-3
-```
-
 ## ✨ API
 
 * `URL` - http://api.open-notify.org/iss-now.json
